@@ -84,7 +84,7 @@ const Projects = () => {
                   </h2>
                   <p className="text-gray-500 text-sm">
                     {item.price}
-                    <span> | </span>
+                    <span className="px-1"> | </span>
                     {item.location}
                   </p>
                 </div>
